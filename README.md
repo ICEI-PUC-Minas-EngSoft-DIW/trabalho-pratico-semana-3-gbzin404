@@ -8,17 +8,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gabriel Eduardo de Oliveira
+- Matricula: 2520753
+- Proposta de projeto escolhida: Home Page sobre perifericos gamers.
+- Breve descrição sobre seu projeto: Esta é uma Home Page que fala sobre perifericos gamers em um geral, mostrando abas em que cada produto se insere, contendo imagens e descricao de tal. Logo ao fim da pagina temos um link de um blog contando um pouco mais sobre a importancia de se ter bons equipamentos.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Wireframe](./images/wireframe.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Home Page](./images/homepage.png)
